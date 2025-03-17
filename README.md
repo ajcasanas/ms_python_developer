@@ -7,4 +7,4 @@ Python 3+
 No others are allowed to contribute to this repository
 MIT License applies
 Made by ajcasanas
-Acknwoledgments/Credits: Thanks to Coursera, and Microsoft for the skills and projects demonstrated herein
+Acknowledgments/Credits: Thanks to Coursera, and Microsoft for the skills and projects demonstrated herein
